@@ -1,4 +1,4 @@
-﻿Telegram-Notion bot
+Telegram-Notion bot
 
 
 A small bot that turns a Telegram message into a task in Notion. Message the bot and it creates a row in a Notion database, and replies to confirm.
@@ -122,7 +122,7 @@ You should see "Bot is running. Press Ctrl+C to stop". Message the bot from Tele
 
 * Host: UpCloud, Frankfurt
 * Server: Ubuntu 26.04 LTS, 2 vCPU / 2 GB RAM / 30 GB NVMe (Starter plan)
-* IP: 85.9.200.101
+* IP: <ip>
 * Connect: ssh root@<ip> (SSH key only. See hardening below)
 * Create user in server
 
